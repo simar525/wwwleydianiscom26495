@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://leydianisg.flexipaginas.net/$1"
+ }
+  ]
+}
